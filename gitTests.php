@@ -7,6 +7,7 @@
 <?php
 
 echo "Testing this out";
+echo "Testing a new line";
 
 ?>
 </div>
